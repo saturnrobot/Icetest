@@ -1,0 +1,37 @@
+-------------------------------------------------
+//////// WELCOME TO XTRUST
+
+XTRUST = no trust
+no trust in government
+no trust in authority
+no trust in companies
+no trust in secruity
+no trust in others
+
+                trust is a risk!
+
+This domain is maintained by K14us.
+- I keep no logs because I don't care about you.
+- So stop caring about me.
+
+This domain is MINIMAL friendly.
+
+
+
+
+I know what you are looking for {name}.
+Come get it: [cpu14.lily.town]
+
+
+
+
+-------------------------------------------------
+{code}
+examine_text;
+Generic hacker spot.
+detail_text;
+There is only the minimal text displayed... these guys are hardcore!
+connected_regions;
+lily.town
+cpu14.lily.town
+{code}

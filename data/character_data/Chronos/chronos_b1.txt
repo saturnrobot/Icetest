@@ -1,0 +1,49 @@
+status={name}, you're reconnected! Could we [chat]?
+|unknown|
+Sorry? Run that by me again!
+0,0,0,0,0,0
+|main|
+It's a merical you survived {name}!
+0,m2,0,0,0,0
+|m2|
+The amount of null bytes in the area were way beyond safe levels...
+0,m3,0,0,0,0
+|m3|
+For some reason this beast was unable to make you [vuln]erable.
+vuln:m4,0,0,0,0,0
+|m4|
+Yes... sadly Alice was affected very hard...
+0,0,0,m5,0,0
+|m5|
+It is unknown what her vitals are at right now but we have the best doctor in lily, ducky, on the job!
+0,0,0,m6,0,0
+|m6|
+Although right now we must focus on a pressing threat. This [beast].
+beast:beast,0,0,0,0,0
+|beast|
+Since you're the only one to come into contact with this thing and survive, I want you to spearhead this investigation.
+why;why me:why,0,0,glad,0,0
+|why|
+You're the only hope we have left. You're the only hope left for the town and even maybe Alice...
+0,glad,0,0,0,0
+|glad|
+Well I guess that settles it, welcome to the team {name}!
+0,0,0,l,0,0
+|l|
+There is a woman in this town that is kept on the outer edge.
+0,0,0,l2,0,0
+|l2|
+She lives on a domain [opposite] to the white lotus.
+opposite:o,0,0,l3,0,0
+|o|
+I'm sorry I can't say the two words together, I'm in the middle of running a political campain. Can't risk the locals catching me spouting anti lily rhetoric.
+0,o2,0,0,0,0
+|o2|
+I'm sorry. I'll have to leave it up to you to figure out.
+0,0,0,l3,0,0
+|l3|
+Upload this lotus to her altar. Make sure no one sees you leaving here with it in your inventory.
+0,0,0,end,0,give:lotus
+|end|
+With that I'm off. You can find me in my office if by chance you need me.
+0,0,1,0,0,set_flag:chronos2;goto:office.hq.lily.town

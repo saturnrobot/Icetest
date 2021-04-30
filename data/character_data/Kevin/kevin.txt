@@ -1,0 +1,22 @@
+status=Rank #504 in Ultra Freeze Online
+|unknown|
+What??
+0,0,0,0,0,0
+|main|
+What do you want DUDE?
+0,oh,0,0,0,0
+|oh|
+Oh...
+0,ufo,0,0,0,0
+|ufo|
+Do you have Ultra Freeze Online hacks?
+no:no_r|yes;yeah:yes_r,0,0,0,0,0
+|no_r|
+Damn... well you're lame!
+0,none,0,0,0,0
+|yes_r|
+I can see your invrentory... you don't have it. You should really encrypt your metadata.
+0,none,0,0,0,0
+|none|
+{none}
+0,0,0,none,0,0

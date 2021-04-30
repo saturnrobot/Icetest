@@ -1,0 +1,10 @@
+status=Impressive {name}! Lets go to [6chip.lily.town]
+|unknown|
+I don't know what you mean.
+0,0,0,0,0,0
+|main|
+I didn't know you still had it!
+0,0,0,six,0,0
+|six|
+Lets go to [6chip.lily.town]!
+0,0,1,0,0,0

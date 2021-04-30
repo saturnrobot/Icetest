@@ -1,0 +1,38 @@
+-------------------------------------------------
+#w#W#w#W#w#W#w# OUTER LILY TOWN #w#W#w#W#w#W#w#
+"The true traveler is guided only by nature." - LILY 6:5
+
+This is the last main node of LILY TOWN.
+Remember: We are at the edge of the ///ICE NETWORK.
+
+Any connected domain past this point is unencrypted.
+Saftey is not gaurenteed!
+Proceed only if you have the required ///ICE [beacon] and !jump3r [modules].
+
+SaD*nS*@d78@b[f0ctun3@yS*!sn
+
+Explorer Notices:
+> Null byte prevalence 0.7nb ~ jj
+> Lukai itchojak sighted: beautifully generated creature ~ lizzy
+> 009x9183
+> nnneeed [$lyp]?
+-------------------------------------------------
+{code}
+required_flags;
+alice_key_uploaded|1|Alice wouldn't have put the key here!
+examine_text;
+Outer edge of lily.town. Not as scary as it is made out to be.
+detail_text;
+I am in a clearing with a wooden sign infront of me with some information and a network map.{n}[lily.town] is behind me.{n}There are a variety of tall, fall coloured, trees as far as I can see forward.{n}In the distance there is a small [mountain].{n}A small dirt [path] leads into the forest.{n}A crisp breese blows.
+action_words;
+mountain|That would be 6chip mountain. I hear it's nothing like the mountains of other places of ///ICENET.{n}Back in the time [lily.town] was founded this probably was AI generated to simulate real life.
+path|That would lead me down to [dyed.lily.town].
+beacon|This is a module that allows one to jump to the closest main domain.
+modules|They say you need these but it's just for the paranoid. !jump3r modules basically prevent null byte corruption.
+$lyp|A outlawed module that uses null bytes to increase connection strength. It can have some trippy side effects or even memory loss.
+connected_regions;
+park.lily.town
+dyed.lily.town
+sadboyz.lily.town
+blacklotus.lily.town
+{code}

@@ -1,0 +1,22 @@
+status=Eeeeeeeek a Zung! {name}, quickly [chat] with me!
+|unknown|
+I don't know what you mean.
+0,0,0,0,0,0
+|main|
+You still have your 1CE_PWN right?
+no:n|yes;yeah:y,0,0,0,0,0
+|n|
+Liar! You do have it! I can see it in your metadata.
+0,a,0,0,0,0
+|a|
+Anyway ...
+0,0,0,hack,0,0
+|y|
+Awesome! That means we can destroy this zung!
+0,0,0,hack,0,0
+|hack|
+Try running [hack zung]! I'll be here making sure nothing bad happens!
+0,prep,0,0,0,0
+|prep|
+... Oh! By the way if you want to check it out before you [hack] you can also [examine] it!
+0,0,1,0,0,set_flag:alice3;follow

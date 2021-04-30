@@ -1,0 +1,3 @@
+e=0=[K14us]: You think I'd let you have it that easy. Show me what you're made of!
+a=0=CPU14: Resyncing...|CPU14: Vital misalignment. Jolting heart now!|CPU14: WARN. Null bytes at dangerous levels!
+d=0=Saving connection! ... SAVED

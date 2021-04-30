@@ -1,0 +1,30 @@
+-------------------------------------------------
+//////// K14us' CPU
+
+CPU14.CORE SYNC LOG:
+> vitals: SHARED
+> pain.mod sync: PASSED
+> vision.mod sync: PASSED
+> mind.core sync: PASSED
+> null_byte %: 25
+> connection: SYNCED
+> ready_to_roll? YES!
+-------------------------------------------------
+{code}
+examine_text;
+Something is not right about this domain...
+detail_text;
+This site is again minimal only...{n}
+This site serves a simple .log file.{n}
+It seems to be some malicious Ai and human merge going on here.{n}
+All of this guy's PROSSESING went into this merge...{n}
+His sites can barley run anything visual!
+objects;
+y
+enemies;
+CPU14
+characters;
+K14us
+connected_regions;
+xtrust.lily.town
+{code}

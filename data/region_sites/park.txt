@@ -1,0 +1,39 @@
+-------------------------------------------------
+~+~+~+~+~+~+~+ LILY PARK +~+~+~+~+~+~+~
+"The the winds of nature guide your jounrey" - LILY 1:8
+
+This park was established in [i:950] in memory of Rii:
+
+Two lovers far apart though the warmth still may reach.
+    She rises in the morning to tend to her garden.
+       She falls asleep at the end of the day. 
+  He watches over the garden using the warmth she leaves.
+ To watch over the meadow, where they will one day meet.
+                  In memory of - Rii.
+
+### MISSING [itchojak] ###
+Name: PoePoe.
+Form: Lizard.
+Additude: Friendly (may be scared though).
+Wears a little red baseball cap.
+If found please talk to: Lizzy.
+Last seen: [park.lily.town]
+-------------------------------------------------
+{code}
+examine_text;
+An old park that has been here a long time.
+detail_text;
+A very well kept park.{n}There are trees of various ages scattered around the park.{n}The land is lightly hilly with lots of open space for picnics and playing.{n}There is a large cherry blossom tree at the center of the park.{n}There is a [bench] at the base of it.{n}Off behind the tree there is a simple [playground].{n}There is also a [hole] in the ground at the corner of the park.
+action_words;
+bench|Yep, a single bench.{n}There's a legend if you confess to someone under the cherry blossom you will never split apart.{n}I've never seen anyone do that though.
+playground|It's far away, all I can make out with my limited mind projection imaging is a bare bones structure.
+itchojak|Pets that can take any form you want!{n}Some people take these things very seriously, but they can be downloaded, backed-up and replicated any time.
+i:950|This park is old!{n}i:0 is when \\\ICENET was first in beta.{n}It was so new people even still died because of mortal restraints.{n}It is now i:2997.
+hole|This is a connection redirect. It leads to [out.lily.town].
+enter hole|ERROR MINIMAL user: Please connect to [out.lily.town].
+connected_regions;
+bench.lily.town
+out.lily.town
+playground.lily.town
+lily.town
+{code}

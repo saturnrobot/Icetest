@@ -1,0 +1,13 @@
+-------------------------------------------------
+############### FOUND ###############
+THE GATE HAS OPENED: [null.lily.town]
+-------------------------------------------------
+{code}
+examine_text;
+The gate opens to an abyss.
+detail_text;
+It's pitch black. All there is left to do is connect...
+connected_regions;
+dyed.lily.town
+null.lily.town
+{code}

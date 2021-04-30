@@ -1,0 +1,18 @@
+-------------------------------------------------
+############### LOST ###############
+
+Upload three hidden bytes to open gate that cages the BeAST!
+
+K               E               Y
+-------------------------------------------------
+{code}
+examine_text;
+A gate with three holes.
+detail_text;
+A large metal gate blocks all inbound and outbound connections.{n}
+How is the beast getting out?
+flag_proc;
+key_count|3|lost2.txt
+connected_regions;
+dyed.lily.town
+{code}

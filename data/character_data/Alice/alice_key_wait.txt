@@ -1,0 +1,19 @@
+status=Waiting for a friend :3
+|unknown|
+I don't know what you mean.
+0,0,0,0,0,0
+|main|
+Haven't found my public key yet, eh {name}?
+0,0,0,hint,0,0
+|hint|
+Well... I know I uploaded it somewhere that is meant for uploading files!
+0,hint2,0,0,0,0
+|hint2|
+I don't see why I would upload it anywhere else. You need your public key to be in an obvious spot...
+0,end,0,0,0,0
+|end|
+You're so smart {name}! If anyone, you can find it!
+0,end2,0,0,0,0
+|end2|
+If you do have it and I just don't see it try [upload]ing it to my site!
+0,0,1,0,0,0

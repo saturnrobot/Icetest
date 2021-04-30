@@ -1,0 +1,17 @@
+Key,Name,Item Type,Message,Description
+agk,Alice's GPG Key,gpgkey,[Alice's GPG Key] is appended here,This is Alice's public GPG key maybe you can decrypt something with this
+pgk,Paul's GPG Key,pgpgkey,[Paul's GPG Key] is appended here,This is Paul's GPG key. I don't know why I would need this.
+icee,Icee Cream FP,iceecream,[Icee Cream FP] is lying on the ground,ICEE CREAM. It doesn't melt - but tastes like the real thing. It looks used.
+poepoe,PoePoe,poepoe,[PoePoe] is eating flowers,This is an itchojak. It is wearing a red baseball cap... unusual.
+paw,Pastoral Works,paw,[Pastoral Works] has been offered to your connection,This is the sacred text that mentions Lily. Specifically PASTORAL WORKS II LOTUS EDITION.
+kidspass,Kidz Pass,kidspass,There is a scribbled .jpeg of a Dinosaur. It's a [Kidz Pass]!,This may allow me to get to the playground without being attacked!
+mew,mew_choc.flav,mew,A fresh [mew_choc.flav] is waiting for you,This stuff is actually pretty good. Alice always gets this whenever she is here.
+cutie,CUTIECRYPTO!,cutie,[CUTIECRYPTO!] Kawaii to da max! Amount: 1,A crypto currency that is worth almost nothing. It was marketed as a currency that attracts cute girls to the holder.
+k,k.byte,keyitem,[k.byte] is appended here,A single byte: K. Something about it seems important.
+e,e.byte,keyitem,[e.byte] is appended here,A single byte: E. Something about it seems important.
+y,y.byte,keyitemf,[y.byte] is appended here,A single byte: Y. Something about it seems important.
+glow,X-Glow Stick,glow,An [X-Glow Stick] gives off a rainbow glow,A cool light producing entity that is capeable of displaying multiple colours at once.
+dream,Cyberspace Daydream,dream,[Cyberspace Daydream] .mp3 has been uploaded here,I have no idea what this is. Some form of popular music?
+pass,pass.txt,Item,@*(S@#&!)8has281[pass.txt]aS(*Dnk27S(*&2ns872,The file reads:{n}> xtrust:nas21isb451 
+lotus,Black Lotus,lotus,A [Black Lotus] darkens the mood.,These flowers supposively hold evil energy.
+becon,beacon,becon,A [beacon] is ready for download.,This will spawn me back at [lily.town] if [use] is run on it.

@@ -1,0 +1,22 @@
+status=...
+|unknown|
+...
+0,0,0,0,0,0
+|main|
+Is there something I can do for you?
+ask Alice;ask how is she;ask alice:alice,0,0,0,0,0
+|alice|
+It's not looking too good right now...
+0,alice2,0,0,0,0
+|alice2|
+The encryption of her core is dynamic and changes itself whenever I'm close to cracking it.
+0,alice3,0,0,0,0
+|alice3|
+I still want to give recovery an honest try until I do anything drastic...
+0,0,0,alice4,0,0
+|alice4|
+I'm sorry ... 
+0,0,0,end,0,0
+|end|
+...
+0,0,0,main,0,0

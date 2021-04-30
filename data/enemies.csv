@@ -1,0 +1,7 @@
+Name,Enemy Type,Hp,Damage,Sayings,status,examine
+GAMER,Enemy,5,2,data/enemy_data/gamer.txt,Angry,A smelly gamer
+zung,Zung,4,2,data/enemy_data/zung.txt,{s}zungyzungy{\s},A hostile bug made of sentient null bytes. It looks like a black spider. It can block connection hops.
+PuddleBoyStarz,Sadboy,25,0,data/enemy_data/sadboy.txt,sad not winnin. mad still kickin.,A dude with a blue hoodie and black jeans.{n}He has his hood up and is covering his face with his hands.
+SBeAST,SBeast,50,5,data/enemy_data/sbeast.txt,{s}asdklajsdasndasdjkhasdjhasjkdashkjdahsdjashdaasjkd{\s},A horrifying presence. It's attacking Alice!
+CPU14,CPU,6,3,data/enemy_data/cpu1.txt,...,It's a second Kl4us!
+BeAST,Beast,10,2,data/enemy_data/beast.txt,{s}asdklajsdasndasdjkhasdjhasjkdashkjdahsdjashdaasjkd{\s},This monster is no longer as scary as it once was.

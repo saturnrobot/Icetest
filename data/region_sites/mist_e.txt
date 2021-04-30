@@ -1,0 +1,20 @@
+-------------------------------------------------
+{s}##### m1st.lily.town #####{\s}
+
+{s}WELCOME TO ALICE'S DOMAIN EHHEHEHHE{\s}
+
+{s}Things I like:{\s}
+ {s}- Cookies{\s}
+ {s}- Flowers{\s}
+ {s}- Rollerskating{\s}
+ {s}- Bunnies{\s}
+ {s}- and Cats :3{\s}
+
+{s}<3 Poetry <3{\s}
+-------------------------------------------------
+{code}
+flag_proc;
+alice_key_uploaded|1|mist_d.txt
+connected_regions;
+lily.town
+{code}

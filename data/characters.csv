@@ -1,0 +1,8 @@
+Name,Character Type,Path to data,Dialog,Examine Text
+Alice,Alice,data/character_data/Alice/,first_alice.txt,A girl with short blond hair. She has a familiar face
+Kevin,Character,data/character_data/Kevin/,kevin.txt,A gamer with a cyan Ultra Freeze Online hoodie
+Chr0n0s,Chronos,data/character_data/Chronos/,chronos_lib.txt,A tall older fellow with a monocle. He is always checking his stop watch.
+Gus,Gus,data/character_data/Gus/,gus.txt,A burly man with lots of facial hair. 
+Ava,Ava,data/character_data/Ava/,ava.txt,A woman painted in gold and wearing white robes.
+ducky,Character,data/character_data/Ducky/,ducky.txt,A skinny man with square glasses and short brown hair.
+K14us,Klaus,data/character_data/Klaus/,klaus1.txt,Some one of undefineable form. Their figure signature is always in flux.

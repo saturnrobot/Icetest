@@ -1,0 +1,18 @@
+|unknown|
+Huh?
+0,0,0,0,0,0
+|main|
+Thanks to you I can now face my ultimate [CHALLENGE]!
+CHALLENGE;challenge:c,0,0,0,0,0
+|c|
+The impossible null byte wall. Who knew a dangerous cyber drug mixed with a firewall would be so impossible to crack?
+0,0,0,c2,0,0
+|c2|
+Now that I have merged with my homebrewed hacking ai, lets see how long this takes...
+0,0,0,c3,0,0
+|c3|
+0.05 seconds! That was way too easy!
+0,0,0,c4,0,0
+|c4|
+Good luck with whatever you came here for. Thanks for the lift!
+0,0,1,0,0,set_flag:klaus1

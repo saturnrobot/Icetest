@@ -1,0 +1,43 @@
+status=Vote for Chr0n0s (3rd ion running)!
+|unknown|
+Sorry? Run that by me again!
+0,0,0,0,0,0
+|main|
+Oh, {name}! You're back. What good news... I'm sure Alice is happy.
+0,post,0,0,0,0
+|post|
+I can finally take the post it down...
+0,0,0,a,0,0
+|a|
+Oh... I have some bad [news] about your subdomain.
+news;what;ask what:news,0,0,0,0,0
+|news|
+Yeah... ///ICENET updated their encryption standard while you were away...
+0,news2,0,0,0,0
+|news2|
+Your domain was running an unsupported version and we were unable to update it.
+0,news3,0,0,0,0
+|news3|
+It was a security risk and sadly had to be taken down.
+0,0,0,news4,0,0
+|news4|
+Yeah :( ... after this pesky [virus] is taken care of please talk to me and I'll get you set up with a new one!
+virus:v,0,0,c,0,0
+|v|
+You must have heard! There is the apparently dreadful 'beast' disturbing the town.
+0,v2,0,0,0,0
+|v2|
+Nothing our cyber team can't handle! Yours truly is on it anyway!!!
+0,v3,0,0,0,0
+|v3|
+My assumption is it is from the pesky inhabitants of [crash.town]. They have caused us trouble before.
+0,v4,0,0,0,0
+|v4|
+* He doesn't seem too sure... *
+0,c,0,0,1,0
+|c|
+Anyway... I have some things to get to. But feel free to come to me with any questions or concerns any time!
+0,0,0,end,0,0
+|end|
+Good day, {name}! And stay safe.
+0,0,1,0,0,set_flag:chronos1

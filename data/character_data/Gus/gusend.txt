@@ -1,0 +1,10 @@
+status=sapientia potentia est
+|unknown|
+Your phasing is confusing. Come again?
+0,0,0,0,0,0
+|main|
+Looking for something, {name}?
+0,0,0,none,0,0
+|none|
+{none}
+0,0,0,none,0,0

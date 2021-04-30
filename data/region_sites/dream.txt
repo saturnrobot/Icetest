@@ -1,0 +1,38 @@
+-------------------------------------------------
+%%%%%%%%%%%%% DREAM SPACE %%%%%%%%%%%%%
+
+DREAMPUNK is the best type of music ever made.
+
+As proof here are some facts about DREAMPUNK:
+1. Way ahead of its time.
+2. Still popular today.
+3. Rain sound effects.
+
+If you are not convinced you are a souless robot.
+
+Dreampunk fashion:
+Purple, pink, orange or blue Star Dreamer jacket.
+Air's Shimmer Shoes.
+Ultra Drain or Ultra Gain jeans by z3r0x.
+
+Please [download] a X-Glow for the upcoming rave!
+
+FOR THE LAST TIME:
+>>>> OTHER GENRES ARE COOL TOO <<<<
+
+This css was done by v0id((dream))!
+-------------------------------------------------
+{code}
+examine_text;
+This domain has something to do with music.
+detail_text;
+A purple fog that envelops the room.{n}
+Feint multi-colours can be seen all around.{n}
+There is a prominent glow of purple and pinks.{n}
+It is also raining, the water drains at the sides of the rooms... I think.{n}
+There are distant cars passing and police sirens.
+objects;
+glow
+connected_regions;
+zclub.lily.town
+{code}

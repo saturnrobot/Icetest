@@ -1,0 +1,38 @@
+-------------------------------------------------
+|H|H|H|H|H|H| LILY TOWN HQ |H|H|H|H|H|H|
+
+For emergencies please connect directly to [debug.hq.lily.town]!
+If you need to contact the Mayor. Try [office.hq.lily.town]!
+Wrong building? Head back to [inner.lily.town]!
+
+Git license applications: CLOSED!
+
+[matrix.city] PUBLIC RSS:
+###############################################
+::::::::::::::::::MATRIX NEWS::::::::::::::::::
+
+CIPHER HAS NOW REACHED 10 BILLION FOLLOWERS!
+She has finally beat H4sktrice. And now
+stands as the most popular agent in matrix.city.
+
+NULL BYTE CRISIS HAS REACHED ALL TIME HIGH!
+Null byte users have gone up since the past year.
+Deaths are projected to rise.
+IciCles will be rolling out null byte simulations
+to try and stop people for using.
+Remember this can cause corruption of mind.core
+and trick the brain it is dead. This causes death
+in mortals and a memory reset for non-mortals.
+###############################################
+-------------------------------------------------
+{code}
+examine_text;
+This is the only government sector of lily.town.
+detail_text;
+I am inside a cloud.{n}
+Paintings of flowers,square conference room like desks, office plants all float on a white fluffy surface.
+connected_regions;
+inner.lily.town
+office.hq.lily.town
+debug.hq.lily.town
+{code}

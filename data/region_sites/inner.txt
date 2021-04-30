@@ -1,0 +1,45 @@
+-------------------------------------------------
+l*l*l*l*l*l*l*l INNER LILY TOWN l*l*l*l*l*l*l*l
+"Always help those in need." - LILY 4:3
+
+Tall man points...
+Points where the connections come and go! 
+
+Recent connections ::: Inbound Only - (not including signature {name})
+:::: GET PWNED!!!! xtrust 141414141414141414 
+:::: ERROR() CRASH lx.extra.ping>>xbomb
+:::: Kevin > [zclub.lily.town]
+:::: Gus > [lotus.lily.town]
+:::: Kevin > [lotus.lily.town]
+:::: Beth > [lotus.lily.town]
+:::: ducky > [hq.lily.town]
+:::: paul > [paul.lily.town]
+:::: Cr0n0s > [hq.lily.town]
+:::: d00m_l3g3nd > [lotus.lily.town]
+:::: KennyG > [zclub.lily.town]
+:::: Alice > [cat.lily.town]
+:::: Alice > [zclub.lily.town]
+
+^- [lily.town]
+-------------------------------------------------
+{code}
+required_flags;
+alice_key_uploaded|1|Alice wouldn't have put the key here!
+act1|1|I can't go here right now!
+examine_text;
+The inner of lily.town. Not what you would expect in a lily.town.
+detail_text;
+Im standing on a floating piece of wood. Some how it is keeping me up.{n}
+All around me there is clean light blue water.{n}
+Except for floating pieces of wood that lead to various buildings.{n}
+In the water there a lots of lotus flowers and lily pads.{n}
+At the center of this area there is a statue of a tall man with many arms pointing in different directions.{n}
+Something about him looks broken though.
+connected_regions;
+lily.town
+lotus.lily.town
+cat.lily.town
+hq.lily.town
+zclub.lily.town
+paul.lily.town
+{code}

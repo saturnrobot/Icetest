@@ -1,0 +1,26 @@
+-------------------------------------------------
+~+~+~+~+~+~+~+ Promise Bench ~+~+~+~+~+~+~+
+4trix <3 Vui ~ i:1997 [together] at last
+I hate stoopid girlz. boyz ruul.
+<3
+                        call me: 7:<4ns.986.09
+            Anarchy roks
+join my ().hask server: kevvv.lily.town:().hask
+
+                                                    <3
+^ His mom pays the bills hehehe ^
+
+            luv u alwayz =trinity= ~ niix
+-------------------------------------------------
+{code}
+examine_text;
+The bench under the tree. It seems lonely
+detail_text;
+Being under this tree makes me feel at peace.{n}The cherry blossom is a wonderful orange-y red.{n}This bench is old with lots of scrawled markings.
+action_words;
+together|I guess someone did confess. I wonder if they are still together...
+connected_regions;
+park.lily.town
+objects;
+icee
+{code}

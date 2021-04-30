@@ -1,0 +1,40 @@
+-------------------------------------------------
+#>#>#>#>#>#> LILY.TOWN THRIFT!!! <#<#<#<#<#<#
+Upload your keys or useful item's you've downloaded!
+Sharing is caring. Strengthen the community!
+
+Rules for upload (Failure to comply will mean loss of upload privileges):
+    - No pirated software.
+    - NO MALICIOUS SOFTWARE.
+    - No illegal content (this may result in legal action).
+
+Either fulfill requests peer to peer using 4SEEK or upload them here for everyone to download!
+(Please remove your note after request has been fulfilled.)
+To remove requests either take it down by hand or run "thrift.lily.town -remove <your name>".
+
+Feel free to ask [staff] for help!
+
+People are looking for ... 
+<Kevin>: Does anyone have Ultra Freeze Online hax?
+<Yui>: I need the new rocker_girl_extreme.css palette for my room!
+<O^2>: Cake flavor pack
+<madeleine>: I need a tmp.pl privilege to orbit.city to see my gf!!! I'll pay you back!
+<O^2>: Cake flavor pack
+<nichol>: zung_be_gone.exe
+-------------------------------------------------
+{code}
+examine_text;
+A place where people upload files. It's a lot cooler in realistic mode.
+detail_text;
+There is large glass paneled roof that shines in the sun.{n}The walls are metal with LED's running across the sides.{n}The lights move across the wall like electicity bouncing back and fourth inbetween points.{n}In the center there is a big healthy maple tree with a bunch of paper notes strung on branches.{n}These seem to be requests.{n}There is a [terminal] on the base of the tree with an input field.
+action_words;
+terminal|I would love to use this but I would have to learn all the commands because I'm in MINIMAL mode ...
+staff|Hmmmm... there seems to be no staff here.
+objects;
+agk
+pgk
+characters;
+Kevin
+connected_regions;
+lily.town
+{code}

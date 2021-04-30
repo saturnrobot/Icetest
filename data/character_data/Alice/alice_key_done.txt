@@ -1,0 +1,37 @@
+status=Happy happy happy!
+|unknown|
+I don't know what you mean.
+0,0,0,0,0,0
+|main|
+You did it {name}! I knew you could do it.
+0,0,0,m1,0,0
+|m1|
+Soooooo... how do you like my domain? Does it represent me well?
+yes;yeah:y|no:n,0,0,0,0,0
+|n|
+Awe... I put so much work into it... did you really mean that...
+0,0,0,m2,0,0
+|y|
+Awe!! That means so much to me! Thank youuuu!
+0,0,0,m2,0,0
+|m2|
+Moving on...
+0,m3,0,0,0,0
+|m3|
+I want to go to 6chip mountain with you! You're coming with me no if ands or buts.
+yes;yeah:y2|no:n2,0,0,ok,0,0
+|y2|
+Heck yeah! Here are the directions:
+0,ok,0,0,0,0
+|n2|
+Please... We've been apart for so long, you can at least give me this.
+0,a,0,0,0,0
+|a|
+Anyway ...
+0,ok,0,0,0,0
+|ok|
+We have to go to park.lily.town then we have to jump into the hole then into the forest then up the mountain.
+0,0,0,race,0,0
+|race|
+Bet I'll beat you up there!
+0,0,1,0,0,set_flag:alice2;goto:dyed.lily.town

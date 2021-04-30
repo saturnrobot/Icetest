@@ -1,0 +1,51 @@
+-------------------------------------------------
+#0#0#0#0#0# LILY.TOWN #0#0#0#0#0#
+"Everyone will live in peace" - LILY 7:8
+
+Notice's From Mayor Chr0n0s:
+URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT
+> There have been sitings of an unidentified malicious [entity]
+> Curfew in affect at 9:00pm please stay only in trusted and encrypted domains!
+URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT
+> Fall time is upon us please put out leaves on Tuesday for collection
+> [thrift.lily.town] has been establish due to popular demand. 
+    > Upload your public keys or notices whatever you like. NOTHING MALICIOUS.
+> Voting season is soon upon us. A vote for Chr0n0s is a vote for a better future!
+
+Community message board:
+> [lost] friend. If anyone has details please come forward.
+> 1CE_PWN v2 has been developed by yours truly [get it] now! - k14
+> I miss the summer :(((((
+> Need a trusted domain to spend the night? 
+    > Be safe and gain knowledge at [biblio.lily.town]!
+> I'm off to [matrix.city] see ya losers! - Paul
+
+Disclaimer: Postings are only allowed by inhabitants of [lily.town]. Although they 
+do not necessarily reflect the views of the majority of the population of [lily.town].
+
+CONNECTIONS
+[park.lily.town] - Enjoy our historical park.
+[inner.lily.town] - Check out more of what our town has to offer!
+-------------------------------------------------
+{code}
+locked;
+alice1|0|I should probably [chat] with Alice first!
+examine_text;
+This is the town square. This place has lots of connections.
+detail_text;
+There are rolling green hills littered with small houses and establishments.{n}Stone pathing connects them all for those who like to walk.{n}There is a fountain here at the center of town, the focus being a beautiful woman with long hair covered in flowers.{n}She is holding a golden flower above her head.{n}Larger flowers are pooring out water around her.{n}The air is crisp it truly is fall.
+characters;
+Alice
+action_words;
+entity|WARNING HOSTILE ENTITY{n}::::::DESCRIPTION BLOCK START::::::{n}DO NOT PANIC: It seems to only be some kind of virus.{n}It takes up a VERY disturbing appearance, it is hard to miss.{n}Witnesses of this beast could only describe it as a demon, the sight was so disturbing they disconnected from the area immediately (which is advised).{n}Please do not fear! The cyb3r0ps are on the case.{n}Remember ///ICENET is a secure place built by the best minds to ever exist. YOU ARE IN NO SERIOUS DANGER.{n}A curfew has been established to keep the community safe.{n}   - lily.town cyb3r0ps{n}::::::DESCRIPTION BLOCK END::::::
+lost|His name is J4CK.{n}Last seen after the night this demon appeared.{n}We are very worried. A connection search is on going.{n}Anyone with advanced [nmap] tools or leads please contact yui@lily.town.
+get it|1337 USERS ONLY! Signed [xtrust.lily.town] - "You know who you are"
+connected_regions;
+connect.lily.town
+biblio.lily.town
+park.lily.town
+m1st.lily.town
+xtrust.lily.town
+inner.lily.town
+thrift.lily.town
+{code}

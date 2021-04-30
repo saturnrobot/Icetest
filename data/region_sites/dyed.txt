@@ -1,0 +1,42 @@
+-------------------------------------------------
+^^^^^m^^^^^m^^^ DYED FOREST ^^m^^^^m^^^^m^^^
+
+Forest of colour both unreal and real.
+Once seen as unnatural.
+Now it is as natural as wood.
+
+Great steps were made in natural generation.
+Let this stand as an example.
+There is beauty on the edge, even if it is still artifical.
+~ m1t1 i:910
+
+&& GEOCACHE &&
+> [6chip] is connected here! A great view for us naturalists! 08:22
+> AI DISCRIMINATION IS STILL REAL! 07:02
+> H4lflyf3 was here 06:20
+> ewwwwwwwww 06:14
+> We kissed! Kai <3 Lex 06:11
+> Anyone hear the [concert]? 05:03
+...
+-------------------------------------------------
+{code}
+locked;
+zung_defeated|0|I gotta defeat this Zung!
+examine_text;
+A quite dense forest. Vibrant fall coloured trees are everywhere.
+detail_text;
+A forest surrouds me. It's hard to make any logical conclusion about any potential connections.{n}
+There are many paths and directions...{n}
+...{n}
+It is peaceful and unnerving at the same time.{n}
+I imagine this is what being lost in a forest in the real world would feel like.{n}
+Except theres no real danger here...
+action_words;
+concert|Something about sadboyz on the outer edge? Let me know because I think I'm going crazy...
+connected_regions;
+out.lily.town
+6chip.lily.town
+lost.lily.town
+enemies;
+zung
+{code}

@@ -1,0 +1,22 @@
+Type whatever you want to display just raw in the text file
+When you want code enter {code} and the lines below that will be read as code.
+In that you will enter tags ending in semi colons:
+Here are valid tags:
+{code}
+examine_text;
+detail_text;
+action_words;
+characters;
+objects;
+connected_regions;
+{code}
+^ After you are done the putting in code enter {code} at the ending
+The text is read like so: 
+Read the tag and store it
+all lines under tag are mapped to the stored tag given 
+stop storing when another tag is read (a word that ENDS with a ;)
+
+Own tags can be made if add l_tagname (where tag name is replaced with the tag) if added to a Region class
+
+{name} - player name
+{n} - new line

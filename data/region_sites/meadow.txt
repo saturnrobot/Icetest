@@ -1,0 +1,36 @@
+-------------------------------------------------
+(~0~)(~0~)(~0~) LILY MEADOW (~0~)(~0~)(~0~)
+
+This is the secret subdomain of 3ternity.
+
+!!! The lotus church does not truly represent lily !!!
+!!! The lotus church misrepresents PASTORAL WORKS II !!!
+
+I maintain this meadow to honor Lily.
+"Nature, human and software must co-exist in harmony." - LILY 9:12
+(Nature here is meant both real and artificial.)
+"Nature is reflected in the artifical." - LILY 10:10
+
+Even in the digial world we must still honor the natural.
+
+Please pay your respect with any .fty file you have.
+
+Take an .fty leave an .fty. Thank you. 
+
+> There is a backdoor connection back to [park.lily.town]. You're welcome! <
+    
+~ 3ternity
+-------------------------------------------------
+{code}
+examine_text;
+There is a nice aroma tied to this address.
+detail_text;
+There is a bunch of beautiful flowers of all types and colours.{n}All of the .fty files are REALISTIC mode locked.{n}This meadow is very large and there is a pond in the far corner with a population of frog itchojaki.{n}Pines surround the outer edge of the meadow...{n}There is no connection paths futher in... not MINIMAL mode friendly at all.{n}{n}There is a [book] on a stump infront of me...
+action_words;
+book|It's Pastoral Works II, it looks used. It is open to the page the [curl] of this site returns.
+read book|LILY 1{n}1 Natural light still shines upon us.{n}2 Ava brought the ice age but nature will triumph. Agents will live amongst the real once again, if she chooses us worthy once again.{n}...{n}...{n}...
+objects;
+poepoe
+connected_regions;
+park.lily.town
+{code}

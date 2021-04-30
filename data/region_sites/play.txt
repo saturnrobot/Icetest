@@ -1,0 +1,25 @@
+-------------------------------------------------
+:0:):0:):0:):0:) !!!!KIDZ ONLY!!!! PLAYGRUND :0:):0:):0:):0:)
+This empier is ruled by the [kidz]!
+Grown up and mortal softwear be gone!
+
+Current Prezzy: Kevin
+
+MESSAGE TO >>> LUUK <<<:
+Kevin got a 1CE_PWN thatz right! Stay back or be haxxerd pwned!
+-------------------------------------------------
+{code}
+required_flags;
+kids_pass|1|The kids there wont let me there without a kidz.pass.{n}I don't want to piss them off.
+examine_text;
+A very small playground. It's the territory of lily town's small population of kids. I'm not allowed...
+detail_text;
+The metal structure holding up the swing set is rusted as well as the ladder up to the slide.{n}It seems like the css is an old version and not compatible with the new x5.0.{n}The ground is just tons of small pebbles, I'm sinking a bit.{n}There is also a lame faded yellow tube [slide] with a slight spiral.
+action_words;
+slide|If people see me using this slide, the kids will never leave me alone.
+use slide|Maybe if I connect to [slide.lily.town]...
+kidz|Sometimes mortal consciousness is uploaded into a newly created agent.{n}Many people claim they are mortal but this is usually later proven false... There are probably no mortal agents left to upload.
+connected_regions;
+park.lily.town
+slide.lily.town
+{code}

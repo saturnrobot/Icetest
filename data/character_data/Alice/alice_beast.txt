@@ -1,0 +1,13 @@
+status={name}! It's HORRIFYING!!^&2ds@
+|unknown|
+{s}sadklasdnasjkhasd{\s}
+0,0,0,0,0,0
+|main|
+{name}... {s}sakhasduw{\s}
+0,0,0,m2,0,0
+|m2|
+I... {s}asdash{\s} wanted you to {s}asdhas{\s} know that i .... {s}asdhjasd{\s}
+0,0,0,end,0,0
+|end|
+{s}asdhasdj{\s} y{s}ou{\s}
+0,0,1,0,0,set_flag:alice5

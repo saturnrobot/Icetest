@@ -1,0 +1,30 @@
+-------------------------------------------------
+### WELCOME TO LILY.TOWN ###
+"Hope will guide us to a brighter future" - LILY 6:10
+
+Population: 24
+Child domains: 0
+[Connected] domains: 1
+
+Lily town is a humble neighborhood on the fringes of ///ICE NET.
+est: i:901
+
+(Alice made me put this here please ignore...)
+MISSING MISSING MISSING MISSING MISSING MISSING
+Looking for {name}, if you are {name} please
+read this [note]! - Alice
+MISSING MISSING MISSING MISSING MISSING MISSING
+
+-------------------------------------------------
+{code}
+examine_text;
+Connect page for lily.town. The landing page for new visitors.
+detail_text;
+This background is old wood seems in need of maintenance.{n}Theres a paper post it with neatly bubbled letters, it seems like it has been up for a while.{n}In realistic mode this would be the sign out front of the town.{n}The air of this place is comforting and breathable, it reminds me of home.
+action_words;
+connected|This would be crash.town. I don't have access to that domain though...
+Connected|This would be crash.town. I don't have access to that domain though...
+note|To {name},{n}I hope you have returned safely after being put offline.{n}I and everyone else miss you very much.{n}Please connect to [lily.town] I'll be looking for your connection!
+connected_regions;
+lily.town
+{code}

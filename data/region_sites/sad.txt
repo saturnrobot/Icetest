@@ -1,0 +1,33 @@
+-------------------------------------------------
+sadboyz        ||||||||||||||||||||||||||||||||||
+        sadboyz        ||||||||||||||||||||||||||
+|||||||         sadboyz        ||||||||||||||||||
+
+## Alone by [PuddleBoyStarz] ##
+Like rain from rain clouds I'm falling.
+Fallin and fallin.
+Can't hear your callin.
+Girl can't you see me?
+Please miss me, please kiss me.
+
+Show Times: 
+NEVER! NEVER! NEVER!
+
+Like my work? I take crypto:
+47MubhYb9fzVbT2SADBOYZ6zf1JuESYym8tQDU1GDpxrVPE8YcLZyonr
+-------------------------------------------------
+{code}
+required_flags;
+act1|1|I can't go here right now!
+examine_text;
+This domain is very moody. Don't know why something packed with this much emotion would be connected here...
+detail_text;
+As far as the eye can see a dark expanse.{n}
+Scattered about are multiple lit lampposts and puddles.{n}
+The biggest structure in this domain is the [stage].
+action_words;
+stage|Red curtains closed above a wooden platform.
+PuddleBoyStarz|Never heard of this guy.
+connected_regions;
+out.lily.town
+{code}

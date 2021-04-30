@@ -1,0 +1,25 @@
+-------------------------------------------------
+{{{{{{{{{{{{{{ SPACE }}}}}}}}}}}}}}
+
+Where the fallen fall past the Earth.
+
+This byte is important so I uploaded it here.
+I don't want anyone who fears the edge to hold this fragment.
+This byte is a part of something that held a creature of old times past.
+
+They must be protected at all costs, but in case the creature gets out.
+A determined agent must be able to uncloak them.
+
+Good luck or burn in null whoever you are...
+
+Backdoor to [lily.town] is here.
+-------------------------------------------------
+{code}
+detail_text;
+There is no gravity here.{n}
+There are distant stars all around me it's breathtaking.
+objects;
+k
+connected_regions;
+lily.town
+{code}

@@ -1,0 +1,31 @@
+status=All hail the magnificent AVA
+|unknown|
+Don't play games with me.
+0,0,0,0,0,0
+|main|
+Come to play, sweet child?
+ask ava:ava|ask why:why,0,0,none,0,0
+|none|
+{none}
+ask ava:ava|ask why:why,0,0,none,0,0
+|ava|
+Oh no no no! I'm not the real AVA. I'm only a poor reflection. If I was the real deal I wouldn't have helped such an insignificant mortal soul.
+0,0,0,none,0,0
+|why|
+Without any souls in lily town how would I convert people to follow AVA? The population here is already small as it is...
+0,why2,0,0,0,0
+|why2|
+I was once blind like you. It took me a long time to realize...
+0,why3,0,0,0,0
+|why3|
+I should be making natural decisions. Thus I did, I made the most natural decisions.
+0,0,0,why4,0,0
+|why4|
+Follow AVA and give into my raw nature, a perfect replication of the mortal!
+0,why5,0,0,0,0
+|why5|
+It's only a matter of time until others follow suit. I'll even give you a good rank in my cult!
+0,0,0,why6,0,0
+|why6|
+HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+0,0,0,none,0,0

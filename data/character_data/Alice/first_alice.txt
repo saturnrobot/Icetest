@@ -1,0 +1,64 @@
+status={name}!!!! [chat] with me! Pleaseeeeeee!!
+|unknown|
+I don't know what you mean.
+0,0,0,0,0,0
+|main|
+OMG {name} you're alive! I was worried sick!
+0,hug,0,0,0,0
+|hug|
+* You feel a warm and comforting presence *
+0,ask,0,0,1,0
+|ask|
+Anyway... are you feeling [okay], {name}.
+okay;ok:r,0,0,0,0,0
+|r|
+So, you don't remember anything when you were taken offline...
+0,r2,0,0,0,0
+|r2|
+Well thats no bother!
+0,r3,0,0,0,0
+|r3|
+While you where away I got a [subdomain]! I've just finished furnishing it...
+subdomain:r4,0,0,0,0,0
+|r4|
+Yeah! would you like to see it??? I'm not taking [no] for an answer!
+no:no_r|yes;yeah:yes_r,0,0,0,0,0
+|no_r|
+You're just trying to be cute! I know you wanna ...
+0,tell,0,0,0,0
+|yes_r|
+I knew it! You're the best!
+0,tell,0,0,0,0
+|tell|
+There's one thing you should know first...
+0,0,0,gpg,0,0
+|gpg|
+I've encrypted it with my gpg key!
+0,bet,0,0,0,0
+|bet|
+Bet you didn't know I was capeable if that!
+0,0,0,say,0,0
+|say|
+Well it's [m1st.lily.town]. It's connected right to lily.town! Super [cool], right?
+cool;yes;yeah:mhm,0,0,0,0,0
+|mhm|
+Thank you!
+0,lost,0,0,0,0
+|lost|
+I know I uploaded my [key] somewhere around the connected sub domains here...
+key:rr,0,0,0,0,0
+|rr|
+Yeah, my gpg key. You're going to need it to see my place :3
+0,m,0,0,0,0
+|m|
+* I should probably [ask] her [where] it is *
+ask where;ask where is it;ask where it is;ask where is the key:tell2,0,0,0,1,0
+|tell2|
+Oh right... Ummmmm It's defenetely close by it can't be farther than a single subdomain deep!
+0,e,0,0,0,0
+|e|
+Well I'm going to head to my place! Don't keep me waiting!
+0,0,0,end,0,0
+|end|
+* If I was playing realistic mode she would probably be walking into a house right now ... *
+0,0,1,0,1,set_flag:alice1;goto:m1st.lily.town

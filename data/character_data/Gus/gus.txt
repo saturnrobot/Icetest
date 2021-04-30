@@ -1,0 +1,22 @@
+status=sapientia potentia est
+|unknown|
+Your phasing is confusing. Come again?
+0,0,0,0,0,0
+|main|
+The phlegmatic, {name}! You're alive and well! What a joy!
+0,0,0,n,0,0
+|n|
+By the way... call me Augustus! Gus is a nickname I no longer prefer.
+okay;ok;Augustus;augustus:gear,0,0,0,0,0
+|gear|
+Good my dear friend! Unfortunately, you have found me at a bad time...
+0,gear2,0,0,0,0
+|gear2|
+I must gear up for tonight. In times like these a strong leader is needed!
+0,e,0,0,0,0
+|e|
+After that I can get to librarian duties...
+0,end,0,0,0,0
+|end|
+Till we meet again!
+0,0,1,0,0,goto:none.lily.town

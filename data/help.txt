@@ -1,0 +1,39 @@
+############# WELCOME TO THE <MINIMALIST> MODE USER MANUAL #############
+Minimalist mode is mainly used for servers to test applications
+Lots of functionality and realism is lost when using this mode
+It is suggested that normal inhabitants switch to REALISTIC mode...
+(99% of users use this mode, minimalist mode has also been dropped from PD)
+
+Minimalist mode will scan things of interest for you and highlight them
+with [] around them. Like so: [tunnel]
+
+Because of the limited power of minimalist mode users can [look] and [examine]
+their current connections. When connected, the display will show the current
+location converted to TXT. In REALISTIC mode these places would be actual real spaces.
+
+COMMAND REFERENCE:
+In Connection:
+    [look] - dump the mind.module.memory translated into a rough description of the space.
+    [examine] - pull metadata from an item, place or agent.
+    [curl] - display current site.
+    [exit] - stop running visuals (end game).
+    [clear] - refocus (clear console).
+    [nmap] - get current user connections.
+    [inventory] - list your downloads.
+    <domain> - connect to inputted domain (if connected to current domain).
+
+Connected Domains:
+    [examine] <domain> - get simple metadata without connecting to site.
+    [connect] <domain> - connect to domain.
+
+Items (usually appear under site):
+    [download] <item> - download item to invrentory.
+    [upload] <item> - upload an item in invrentory to site.
+    An item looks like this:
+    > [item] - flavor text
+
+Agents:
+    WARN: Malicious actors will be denoted with !! around them.
+    WARN: Leave domain immediately if get back a malicious connection.
+    [chat] <person> - enter chat interface with other person.
+        - Type [d] or [disconnect] anytime to end a chat.

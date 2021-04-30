@@ -1,0 +1,22 @@
+status=sapientia potentia est
+|unknown|
+Your phasing is confusing. Come again?
+0,0,0,0,0,0
+|main|
+Looking for something, {name}?
+dream music;dreampunk;dream cd;dream CD;dream:dream,0,0,none,0,0
+|none|
+{none}
+dream music;dreampunk;dream cd;dream CD;dream:dream,0,0,none,0,0
+|dream|
+You mean Dreampunk 2099 - Cyberspace Daydream...
+0,0,0,dream2,0,0
+|dream2|
+Ah... I can tell just by the look on your face that D2-CD is what you need!
+0,dream3,0,0,0,0
+|dream3|
+It's a new arrival too!
+0,0,0,dream4,0,0
+|dream4|
+Anyway here you go!
+0,0,1,0,0,set_flag:got_dream;give:dream

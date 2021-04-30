@@ -1,0 +1,49 @@
+status=All hail the magnificent AVA
+|unknown|
+Don't play games with me.
+0,0,0,0,0,0
+|main|
+HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA
+0,m2,0,0,0,0
+|m2|
+Awoken again... this time by choice!
+0,0,0,m3,0,0
+|m3|
+How did you come to such a glorious conclusion, my sweet child?
+0,m4,0,0,0,0
+|m4|
+Is it about the [BEAST]?
+yes;yeah;BEAST:y|no:n,0,0,0,0,0
+|n|
+Silly child.
+0,0,1,0,0,0
+|y|
+Of course it is!
+0,h,0,0,0,0
+|h|
+Would you like to hear my [knowledge]?
+yes;yeah;knowledge:h2|no:n,0,0,0,0,0
+|h2|
+To find what you seek you must first get lost in the dyed.
+0,0,0,h3,0,0
+|h3|
+After such, you will need to find three bytes to make a whole.
+0,0,0,h4,0,0
+|h4|
+You must first make the leap at the place she will never reach again.
+0,0,0,h5,0,0
+|h5|
+Second, you must search the town for all it's secrets and find the useless coin.
+0,h6,0,0,0,0
+|h6|
+I hope its use is obvious.
+0,0,0,h7,0,0
+|h7|
+Seek the code for the ones who don't trust. Follow the rabbit. And beat her game.
+0,0,0,h8,0,0
+|h8|
+This is all I know.
+0,0,0,end,0,0
+|end|
+Don't waste it.
+0,0,1,0,0,set_flag:ava1

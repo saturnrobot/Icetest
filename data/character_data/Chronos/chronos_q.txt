@@ -1,0 +1,16 @@
+status=Vote for Chr0n0s (3rd ion running)!
+|unknown|
+Sorry? Run that by me again!
+0,0,0,0,0,0
+|main|
+Hello, {name}!.
+0,q,0,0,0,0
+|q|
+Anything you need from me?
+no:n|yes;yeah:y,0,0,q,0,0
+|n|
+Oh... okay?
+0,0,0,q,0,0
+|y|
+What is it?
+0,0,0,q,0,0

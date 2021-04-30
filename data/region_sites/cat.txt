@@ -1,0 +1,33 @@
+-------------------------------------------------
+:3:3:3:3:3:3 CAT CAFE :3:3:3:3:3:3
+Enjoy DRM free, homemade, hot chocolate .flav's.
+
+Everything is freshly scripted every morning. 
+Made with <3.
+
+CERTIFIED [itchojaki] friendly.
+Please bring your [itchojaki]!
+
+~ Menu ~
+Cofii.flav - 10byte/20byte/40byte (Sold out!)
+mew_choc.flav - 15byte/25byte/45byte - Free! (1 download daily)
+kit-tea.flav - 5byte/10byte/20byte (Sold out!)
+cake_pop.flav - 40byte/60byte (Sold out!)
+missyoucookie.flav - 20byte/30byte (Sold out!)
+-------------------------------------------------
+{code}
+examine_text;
+A cat plus cafe. What more could someone ask for?
+detail_text;
+The building is a furry yellow cube with a cat face on the front.{n}
+The inside is fully furnished. Many different types of chairs, tables and carpets are all around.{n}
+Some square some circles. Some cushioned others just plain wooden.{n}
+There is a keyboard and terminal at the front to type an order it seems.{n}
+It is warm in here.
+action_words;
+itchojaki|Pets that can take any form you want!{n}Some people take these things very seriously, but they can be downloaded, backed-up and replicated any time.
+objects;
+mew
+connected_regions;
+inner.lily.town
+{code}

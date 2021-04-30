@@ -1,0 +1,38 @@
+-------------------------------------------------
+|+|+|+|+|+|+|+|+| LOTUS CHURCH |+|+|+|+|+|+|+|+|
+"And a lotus flower bloomed through the ice." - HOPE 1:1
+
+Nature still lives with us even after the destruction!
+Need a copy of PASTORAL WORKS LOTUS EDITION? 
+Clone the original copy as written by Lotusone Lai here!
+
+Null can be HEALED by the LOTUS and divine power of Lily!
+Only registered members allowed. 
+
+Lotus Matrimony: Notify a Lotusone at least 4 months before.
+
+~~~ SCHEDULE ~~~
+Mass: Monday to Friday 8:30 to 12:00
+Monday: Mass/Gardening
+Tuesday: Mass + Confessions (after mass)
+Wednesday: Mass + Lil Poppies Club (postponed)
+Thursday: Mass + Confessions (after mass)
+Friday: Mass + Moonlight Dance (postponed)
+Saturday: Lotus Healing (10:00am)
+Sunday: Community Breakfast (8:30am, Realistics only allowed food!)
+-------------------------------------------------
+{code}
+examine_text;
+This is the only church in lily.town. 
+detail_text;
+This church is made mostly of wood; walls, ceiling and floors.{n}
+It's like it was designed to look from an older time.{n}
+There are two rows of wooden benches leading up to the front of the church.{n}
+The walls are lined with stained glass windows with flower designs in them.{n}
+At the base of the walls there basin of water with lotus flowers growing. {n}
+At the front there is a podium with a statue of a woman in robes holding a flower behind it.
+objects;
+paw
+connected_regions;
+inner.lily.town
+{code}

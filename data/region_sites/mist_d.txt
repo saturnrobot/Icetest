@@ -1,0 +1,43 @@
+-------------------------------------------------
+##### m1st.lily.town #####
+
+WELCOME TO ALICE'S DOMAIN EHHEHEHHE
+
+Things I like:
+ - Cookies
+ - Flowers
+ - Rollerskating
+ - Bunnies
+ - and Cats :3
+
+<3 Poetry <3
+In my dreams It's paradise 
+I can explore every planet,
+Touch every star
+Make a wish, 
+Have it granted
+It's so wonderful there
+Up in my headspace
+So why is it that here
+It's as cold as ICE
+-------------------------------------------------
+{code}
+examine_text;
+This place is a cute mess {n}
+Like seriously, this place is a hoarders den for all things cute
+detail_text;
+Okay, so it looks like there is a mountain of plushies to my left {n}
+To my right there is literally a pile of junk {n}
+I have no idea what any of this stuff is but it looks like Alice is still trying to arrange it all {n}
+Further to the back it's potted flowers galore, is that one moving? {n}
+In the middle of the room sits a ramp, why is that there? {n}
+Upon further inspection the plushies look at that ramp with disdain {n}
+The room itself is circular and covered in multiple different types of wallpapers and written poetry {n}
+I hope she is just trying to decide which one looks the best {n}
+Alice stands next to a couch eagerly analyzing my expression {n}
+Was she always this scatterbrained?
+connected_regions;
+lily.town
+characters;
+Alice
+{code}

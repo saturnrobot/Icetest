@@ -1,0 +1,56 @@
+-------------------------------------------------
+&&&&&&&&&&&&&&& ZCLUB &&&&&&&&&&&&&&&
+ZCLUB were the cool icers of lily.town hang out.
+Want a connecting domain? Prove you're ice cold!
+
+"Zee or Zed Club? Lurk more..."
+(See your motto here? Submit a motto to admin.)
+
+Here we keep a lot hidden, just like you...
+Wanna know more? Don't [ask].
+
+Cool icers have many interests like: 
+[psyche], [crypto], [tech], [music], [video games], [edge networks]
+
+Loser of the month: [Sev]
+
+Rules and Regulations:
+1. Don't talk about zclub.
+2. Lame and [loser] connections will be BLOCKED.
+3. Fakers will be BLOCKED.
+4. Creeps will be BLOCKED.
+
+           = powered by [benice2me] =
+-------------------------------------------------
+{code}
+examine_text;
+zclub! Making lily.town cooler by just existing!
+detail_text;
+I'm in the loft of some building.{n}
+Not very high up though, out the window infront of me I see the silvery head of the tall man statue.{n}
+Behind me there is a red, heavily cushioned bridge water [sofa]. It looks quite worn.{n}
+The floor a grey utility carpet. I sense quite a bit of connections but I can't decern any address by just looking.
+action_words;
+sofa|The sofa looks quite comfy.
+sit sofa|You relax...
+ask|ask what?
+ask hidden|Yes, we all [tell secrets].
+ask what is hidden|Yes, we all [tell secrets].
+ask what's hidden|Yes, we all [tell secrets].
+tell secrets|You mean [secrets.lily.town]?
+psyche|What nulls do to your connection...
+crypto|How to make it quick.
+tech|Install minimal modules, free your mind!
+music|Rainy, dystopic, cyber. Share one to dream with us.
+video games|New Ultra Freeze Online when?
+edge networks|Upmost privacy, closer to the real... Right here in lily.
+Sev|It's an image of Sev. Sev runs this domain...{n}Some metadata is attached to the image:{n}Don't you dare mess with xtrust. Stop trying to get in if you want your domain back. You were kicked for a reason. You're lucky I'm a nice guy.
+examine Sev|An image of a man wearing a tiara and has his tounge out mockingly.
+benice2me|A federated service that connects to other instances running benice2me peer to peer; thus getting past privilege blocks. Not many people use it though. 
+objects;
+kidspass
+connected_regions;
+inner.lily.town
+dream.lily.town
+secrets.lily.town
+{code}

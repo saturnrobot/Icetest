@@ -1,0 +1,33 @@
+-------------------------------------------------
++++++++++++++++ DEBUG +++++++++++++++
+Welcome to lily.town debug.
+
+SubZer0 diagnostics: NOMINAL
+Head of operations: ducky
+Space left: YES
+
+NULL BYTES - put your life on the line?
+Before you use know the risks!
+
+NOTICE!
+[lily.town] DEBUG is in need of patreons!
+[Donate] some PROCESSING for specified amount of time or opt out!
+Help save lives and increase the quality of life of your community!
+
+You are in a branch of the [hq.lily.town] building.
+-------------------------------------------------
+{code}
+examine_text;
+Where corruption gets fixed and malware, worms and the common virus are removed.
+detail_text;
+A small white paneled room with many multiple terminals on each wall.{n}
+The text on these terminals is moving too fast to read.{n}
+The text is green though... so that must mean things are okay... I hope.
+action_words;
+Donate|My ice.kernel is too old, I'm of no use...
+donate|My ice.kernel is too old, I'm of no use...
+characters;
+ducky
+connected_regions;
+hq.lily.town
+{code}

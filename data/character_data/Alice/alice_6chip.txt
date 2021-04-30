@@ -1,0 +1,73 @@
+status={name}! lets sit and [chat].
+|unknown|
+I don't know what you mean.
+0,0,0,0,0,0
+|main|
+Wow. We finally made it!
+0,0,0,m2,0,0
+|m2|
+A beautiful [view] huh?
+view:view,0,0,m3,0,0
+|view|
+You're so right! I never thought about it that way :)
+0,m3,0,0,0,0
+|m3|
+Remember when we used to go here together?
+yes;yeah:y|no:n,0,0,0,0,0
+|y|
+Those were wonderful times. I miss them...
+0,y2,0,0,0,0
+|n|
+I don't blame you its been a while.
+0,n2,0,0,0,0
+|n2|
+Let me try to jog your memory... haha!
+0,0,0,y2,0,0
+|y2|
+One memory I cherish was that time we tried to hack the html of this mountain and put a bunch of ':3' faces...
+0,y3,0,0,0,0
+|y3|
+The Lily CyPol found out and we had to hide in that bush over there!
+0,y4,0,0,0,0
+|y4|
+We even had to close our visual modules to make our connection as stealthy as possible...
+0,0,0,yy,0,0
+|yy|
+Ummmm... Anyway...
+0,0,0,y5,0,0
+|y5|
+Since you got forced offline I had to put all those happy memories away and move on...
+0,y6,0,0,0,0
+|y6|
+I pretty much totally moved on up until this point.
+0,y7,0,0,0,0
+|y7|
+Now that you're suddenly back I don't know what to feel or think anymore... It's a weird feeling!
+0,0,0,y8,0,0
+|y8|
+... Gosh... Enough about me...
+0,y9,0,0,0,0
+|y9|
+Is there anything you wanted to ask me?
+ask us:us,0,0,time,0,0
+|us|
+I was thinking about the same thing... maybe there is...
+0,time,0,0,0,0
+|time|
+OH NO!
+0,0,0,t2,0,0
+|t2|
+Look at the time! IT'S 9:00PM! We gotta hurry back!
+0,t3,0,0,0,0
+|t3|
+You lost your domain right?
+yes;yeah:yz|no:nz,0,0,0,0,0
+|nz|
+It's okay, no need to lie. I tried to stall Chr0n0s as much as I could. They still took it down though!
+0,yz,0,0,0,0
+|yz|
+You can spend the night on my domain it's encrypted and not as crowded as the biblio!
+0,end,0,0,0,0
+|end|
+Hurry! Lets go!
+0,0,1,0,0,unfollow;set_flag:alice4;goto:m1st.lily.town
