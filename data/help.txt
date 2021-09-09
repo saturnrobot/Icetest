@@ -27,8 +27,8 @@ Connected Domains:
     [connect] <domain> - connect to domain.
 
 Items (usually appear under site):
-    [download] <item> - download item to invrentory.
-    [upload] <item> - upload an item in invrentory to site.
+    [download] <item> - download item to inventory.
+    [upload] <item> - upload an item in inventory to site.
     An item looks like this:
     > [item] - flavor text
 

@@ -16,11 +16,11 @@ examine_text;
 A small mountain. In realistic mode it would take no more than 1.5 hours to climb.
 detail_text;
 I'm at the top of the mountain. It's a little chilly.{n}
-There's a steep drop 3 feet infront of me.{n}
+There's a steep drop 3 feet in front of me.{n}
 I can see all of lily.town in the distance. Way in the distance crash.town is also visible{n}
 It's a beautiful view.
 action_words;
-NAI|Natural Artifical Intelligence. Later used to create agents undistinguishable from natural humans.
+NAI|Natural Artificial Intelligence. Later used to create agents undistinguishable from natural humans.
 size|09xce.800f is a circle around lily.town with a radius reaching to crash.town.{n} In real units thats quite large in ice units thats very small. 
 connected_regions;
 dyed.lily.town

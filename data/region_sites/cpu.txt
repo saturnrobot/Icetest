@@ -17,7 +17,7 @@ detail_text;
 This site is again minimal only...{n}
 This site serves a simple .log file.{n}
 It seems to be some malicious Ai and human merge going on here.{n}
-All of this guy's PROSSESING went into this merge...{n}
+All of this guy's PROCESSING went into this merge...{n}
 His sites can barley run anything visual!
 objects;
 y

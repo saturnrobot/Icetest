@@ -5,7 +5,7 @@ XTRUST = no trust
 no trust in government
 no trust in authority
 no trust in companies
-no trust in secruity
+no trust in security
 no trust in others
 
                 trust is a risk!
@@ -17,12 +17,8 @@ This domain is maintained by K14us.
 This domain is MINIMAL friendly.
 
 
-
-
 I know what you are looking for {name}.
 Come get it: [cpu14.lily.town]
-
-
 
 
 -------------------------------------------------

@@ -27,7 +27,7 @@ examine_text;
 zclub! Making lily.town cooler by just existing!
 detail_text;
 I'm in the loft of some building.{n}
-Not very high up though, out the window infront of me I see the silvery head of the tall man statue.{n}
+Not very high up though, out the window in front of me I see the silvery head of the tall man statue.{n}
 Behind me there is a red, heavily cushioned bridge water [sofa]. It looks quite worn.{n}
 The floor a grey utility carpet. I sense quite a bit of connections but I can't decern any address by just looking.
 action_words;
@@ -45,7 +45,7 @@ music|Rainy, dystopic, cyber. Share one to dream with us.
 video games|New Ultra Freeze Online when?
 edge networks|Upmost privacy, closer to the real... Right here in lily.
 Sev|It's an image of Sev. Sev runs this domain...{n}Some metadata is attached to the image:{n}Don't you dare mess with xtrust. Stop trying to get in if you want your domain back. You were kicked for a reason. You're lucky I'm a nice guy.
-examine Sev|An image of a man wearing a tiara and has his tounge out mockingly.
+examine Sev|An image of a man wearing a tiara and has his tongue out mockingly.
 benice2me|A federated service that connects to other instances running benice2me peer to peer; thus getting past privilege blocks. Not many people use it though. 
 objects;
 kidspass

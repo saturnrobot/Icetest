@@ -26,7 +26,7 @@
 examine_text;
 Everything now has form...
 detail_text;
-The wispering has stopped... There is a clear path forward into the beast's den.
+The whispering has stopped... There is a clear path forward into the beast's den.
 connected_regions;
 den.lily.town
 lost.lily.town

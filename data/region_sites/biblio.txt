@@ -2,8 +2,8 @@
 [:][:][:][:] LILY TOWN LIBRARY [:][:][:][:]
 
 ///ICENET was made for the acquisition of KNOWLEDGE!
-Don't rest and aquire mind bugs!
-Read and aquire mind debugs!
+Don't rest and acquire mind bugs!
+Read and acquire mind debugs!
 
 URGENT NOTICE!
 Anyone who is in need of an encrypted domain for [lily.town]'s curfew.
@@ -23,10 +23,10 @@ WhatWasIPv4-Br41n(Josef).pdf (new!)
 Meditations-Aurelius(Marcus).pdf
 
 Feel free to [download] and book you want!
-Or fly around and just take it off the shelf!
+Realistic mode is suggested! Flying is also enabled (for Realistics) on this domain :)!
 
 Have a .pdf .epub? Even better a .cpdf?
-Sumbit a [push] to branch <holdings>. Or [upload] directly.
+Submit a [push] to branch <holdings>. Or [upload] directly.
 The library will upload after a book is reviewed. This may take a while...
 
 POLICY!

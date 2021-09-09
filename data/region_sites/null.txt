@@ -26,7 +26,7 @@
 examine_text;
 It's all connections and data. I think I'm hearing VOICES.
 detail_text;
-The numbers are wispering...{n}
+The numbers are whispering...{n}
 {name} {name} {name} {name} {name} {name} {name}{n}
 {name} {name} {name} {name} {name} {name} {name}{n}
 {name} {name} {name} {name} {name} {name} {name}{n}

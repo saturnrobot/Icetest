@@ -15,7 +15,7 @@ no:no_r|yes;yeah:yes_r,0,0,0,0,0
 Damn... well you're lame!
 0,none,0,0,0,0
 |yes_r|
-I can see your invrentory... you don't have it. You should really encrypt your metadata.
+I can see your inventory... you don't have it. You should really encrypt your metadata.
 0,none,0,0,0,0
 |none|
 {none}

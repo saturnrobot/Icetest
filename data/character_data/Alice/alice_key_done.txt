@@ -9,7 +9,7 @@ You did it {name}! I knew you could do it.
 Soooooo... how do you like my domain? Does it represent me well?
 yes;yeah:y|no:n,0,0,0,0,0
 |n|
-Awe... I put so much work into it... did you really mean that...
+Awe... I put so much work into it... did you really mean that?
 0,0,0,m2,0,0
 |y|
 Awe!! That means so much to me! Thank youuuu!
@@ -18,7 +18,7 @@ Awe!! That means so much to me! Thank youuuu!
 Moving on...
 0,m3,0,0,0,0
 |m3|
-I want to go to 6chip mountain with you! You're coming with me no if ands or buts.
+I want to go to 6chip mountain with you! You're coming with me no ifs, ands, or buts.
 yes;yeah:y2|no:n2,0,0,ok,0,0
 |y2|
 Heck yeah! Here are the directions:
@@ -33,5 +33,5 @@ Anyway ...
 We have to go to park.lily.town then we have to jump into the hole then into the forest then up the mountain.
 0,0,0,race,0,0
 |race|
-Bet I'll beat you up there!
+Got that? I bet I'll beat you up there!!
 0,0,1,0,0,set_flag:alice2;goto:dyed.lily.town

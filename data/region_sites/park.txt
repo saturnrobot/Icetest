@@ -1,20 +1,20 @@
 -------------------------------------------------
 ~+~+~+~+~+~+~+ LILY PARK +~+~+~+~+~+~+~
-"The the winds of nature guide your jounrey" - LILY 1:8
+"The the winds of nature guide your journey" - LILY 1:8
 
 This park was established in [i:950] in memory of Rii:
 
 Two lovers far apart though the warmth still may reach.
     She rises in the morning to tend to her garden.
-       She falls asleep at the end of the day. 
-  He watches over the garden using the warmth she leaves.
+       Then falls asleep at the end of the day. 
+  He watches over the garden in the warmth she leaves.
  To watch over the meadow, where they will one day meet.
                   In memory of - Rii.
 
 ### MISSING [itchojak] ###
 Name: PoePoe.
 Form: Lizard.
-Additude: Friendly (may be scared though).
+Attitude: Friendly (may be scared though).
 Wears a little red baseball cap.
 If found please talk to: Lizzy.
 Last seen: [park.lily.town]

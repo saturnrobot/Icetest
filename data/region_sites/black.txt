@@ -19,7 +19,7 @@ examine_text;
 There's a lot of bad vibes coming from this place. It seems quite out of place here in lily town.
 detail_text;
 I'm standing on cold grey stone.{n}
-Around me grey boulders are stacked in various places, held togehter by a think thorny vine.{n}
+Around me grey boulders are stacked in various places, held together by a think thorny vine.{n}
 At the center of this structure there is a small [black pool].
 action_words;
 black pool|This looks to be where you place an offering of some sort.

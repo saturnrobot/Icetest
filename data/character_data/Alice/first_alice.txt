@@ -36,7 +36,7 @@ There's one thing you should know first...
 I've encrypted it with my gpg key!
 0,bet,0,0,0,0
 |bet|
-Bet you didn't know I was capeable if that!
+Bet you didn't know I was capable if that!
 0,0,0,say,0,0
 |say|
 Well it's [m1st.lily.town]. It's connected right to lily.town! Super [cool], right?
@@ -54,7 +54,7 @@ Yeah, my gpg key. You're going to need it to see my place :3
 * I should probably [ask] her [where] it is *
 ask where;ask where is it;ask where it is;ask where is the key:tell2,0,0,0,1,0
 |tell2|
-Oh right... Ummmmm It's defenetely close by it can't be farther than a single subdomain deep!
+Oh right... Ummmmm It's definitely close by it can't be farther than a single subdomain deep!
 0,e,0,0,0,0
 |e|
 Well I'm going to head to my place! Don't keep me waiting!

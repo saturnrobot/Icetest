@@ -7,7 +7,7 @@ Now it is as natural as wood.
 
 Great steps were made in natural generation.
 Let this stand as an example.
-There is beauty on the edge, even if it is still artifical.
+There is beauty on the edge, even if it is still artificial.
 ~ m1t1 i:910
 
 && GEOCACHE &&
@@ -25,7 +25,7 @@ zung_defeated|0|I gotta defeat this Zung!
 examine_text;
 A quite dense forest. Vibrant fall coloured trees are everywhere.
 detail_text;
-A forest surrouds me. It's hard to make any logical conclusion about any potential connections.{n}
+A forest surrounds me. It's hard to make any logical conclusion about any potential connections.{n}
 There are many paths and directions...{n}
 ...{n}
 It is peaceful and unnerving at the same time.{n}

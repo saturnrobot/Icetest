@@ -15,5 +15,5 @@ I don't see why I would upload it anywhere else. You need your public key to be 
 You're so smart {name}! If anyone, you can find it!
 0,end2,0,0,0,0
 |end2|
-If you do have it and I just don't see it try [upload]ing it to my site!
+If you do have it and I just don't see it, try [upload]ing it to my site!
 0,0,1,0,0,0

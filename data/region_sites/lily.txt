@@ -4,7 +4,7 @@
 
 Notice's From Mayor Chr0n0s:
 URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT
-> There have been sitings of an unidentified malicious [entity]
+> There have been sightings of an unidentified malicious [entity]
 > Curfew in affect at 9:00pm please stay only in trusted and encrypted domains!
 URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT URGENT
 > Fall time is upon us please put out leaves on Tuesday for collection
@@ -33,7 +33,7 @@ alice1|0|I should probably [chat] with Alice first!
 examine_text;
 This is the town square. This place has lots of connections.
 detail_text;
-There are rolling green hills littered with small houses and establishments.{n}Stone pathing connects them all for those who like to walk.{n}There is a fountain here at the center of town, the focus being a beautiful woman with long hair covered in flowers.{n}She is holding a golden flower above her head.{n}Larger flowers are pooring out water around her.{n}The air is crisp it truly is fall.
+There are rolling green hills littered with small houses and establishments.{n}Stone paving connects them all for those who like to walk.{n}There is a fountain here at the center of town, the focus being a beautiful woman with long hair covered in flowers.{n}She is holding a golden flower above her head.{n}Larger flowers are pouring out water around her.{n}The air is crisp it truly is fall.
 characters;
 Alice
 action_words;

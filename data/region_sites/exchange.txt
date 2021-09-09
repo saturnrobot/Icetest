@@ -26,7 +26,7 @@ People are looking for ...
 examine_text;
 A place where people upload files. It's a lot cooler in realistic mode.
 detail_text;
-There is large glass paneled roof that shines in the sun.{n}The walls are metal with LED's running across the sides.{n}The lights move across the wall like electicity bouncing back and fourth inbetween points.{n}In the center there is a big healthy maple tree with a bunch of paper notes strung on branches.{n}These seem to be requests.{n}There is a [terminal] on the base of the tree with an input field.
+There is large glass paneled roof that shines in the sun.{n}The walls are metal with LED's running across the sides.{n}The lights move across the wall like electricity bouncing back and fourth in between points.{n}In the center there is a big healthy maple tree with a bunch of paper notes strung on branches.{n}These seem to be requests.{n}There is a [terminal] on the base of the tree with an input field.
 action_words;
 terminal|I would love to use this but I would have to learn all the commands because I'm in MINIMAL mode ...
 staff|Hmmmm... there seems to be no staff here.

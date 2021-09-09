@@ -5,8 +5,8 @@
 This is the last main node of LILY TOWN.
 Remember: We are at the edge of the ///ICE NETWORK.
 
-Any connected domain past this point is unencrypted.
-Saftey is not gaurenteed!
+Any connected domain past this point is un-encrypted.
+Safety is not guaranteed!
 Proceed only if you have the required ///ICE [beacon] and !jump3r [modules].
 
 SaD*nS*@d78@b[f0ctun3@yS*!sn
@@ -23,7 +23,7 @@ alice_key_uploaded|1|Alice wouldn't have put the key here!
 examine_text;
 Outer edge of lily.town. Not as scary as it is made out to be.
 detail_text;
-I am in a clearing with a wooden sign infront of me with some information and a network map.{n}[lily.town] is behind me.{n}There are a variety of tall, fall coloured, trees as far as I can see forward.{n}In the distance there is a small [mountain].{n}A small dirt [path] leads into the forest.{n}A crisp breese blows.
+I am in a clearing with a wooden sign in front of me with some information and a network map.{n}[lily.town] is behind me.{n}There are a variety of tall, fall coloured, trees as far as I can see forward.{n}In the distance there is a small [mountain].{n}A small dirt [path] leads into the forest.{n}A crisp breeze blows.
 action_words;
 mountain|That would be 6chip mountain. I hear it's nothing like the mountains of other places of ///ICENET.{n}Back in the time [lily.town] was founded this probably was AI generated to simulate real life.
 path|That would lead me down to [dyed.lily.town].

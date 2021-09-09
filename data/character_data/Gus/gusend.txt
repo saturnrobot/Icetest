@@ -1,6 +1,6 @@
 status=sapientia potentia est
 |unknown|
-Your phasing is confusing. Come again?
+Your phrasing is confusing. Come again?
 0,0,0,0,0,0
 |main|
 Looking for something, {name}?

@@ -8,7 +8,7 @@ A vote for Mayor Chr0n0s ensures a brighter future for lily town!
 Raised in the heart of matrix.city as a cyber security specialist.
 Ranked #10 in the CySecT exam standings. 
 Moved to crash.town as a CyPol to prevent the high amount of privilege
-breaches happening there. The campaign was largley cited as a success [1]!
+breaches happening there. The campaign was largely cited as a success [1]!
 Fell in love with the small town connection and moved permanently to lily.town.
 
 There is no reason not to vote!
@@ -30,7 +30,7 @@ action_words;
 1|1000 positive matches... Statement can be taken as true!
 metronome|It looks like a trophy of some sort.
 objects;
-becon
+beacon
 connected_regions;
 hq.lily.town
 {code}
