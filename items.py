@@ -234,12 +234,12 @@ class lotus(Item):
             self.game.set_flag('lotus_placed')
             self.game.get_player().current_location.add_character(self.game.character_book['Ava'])
 
-class becon(Item):
+class beacon(Item):
     def __init__(self, key, name, message, description, game):
         super().__init__(key, name, message, description, game)
         self.valid_commands.update({"use":self.use})
     
     def use(self):
         if self.game.get_player().item_in_inv(self):
-            print("The becon sends a transmission!")
+            print("The beacon sends a transmission!")
             self.game.region_book['lily.town'].connect()
